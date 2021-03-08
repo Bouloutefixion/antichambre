@@ -1,2 +1,2 @@
 # antichambre
-Un bot discord pour Antichambre
+Un bot discord pour l'Antichambre

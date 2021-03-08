@@ -1,0 +1,14 @@
+{
+    "prefix": "!",
+    "code1": "NROF",
+    "code2": "IMWM",
+    "code3": "QZEM",
+    "code4": "OPAL",
+    "channel": {
+        "vayne": "816040600335941632",
+        "buvelle": "816040558408892456",
+        "crownguard": "816231218240028692",
+        "laurent": "816040626227249152",
+        "cloudfield": "816231101155508264"
+    }
+}

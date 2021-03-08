@@ -1,0 +1,15 @@
+{
+  "name": "antichambre",
+  "version": "1.0.0",
+  "description": "Un bot discord pour Antichambre",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Bloodfixion",
+  "license": "ISC",
+  "dependencies": {
+    "discord-interface": "^2.0.6",
+    "discord.js": "^12.5.1"
+  }
+}
